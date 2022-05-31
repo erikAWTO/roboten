@@ -24,7 +24,7 @@ void setup() {
   pinMode(9, OUTPUT); 
   pinMode(10, OUTPUT);
 
-  setSpeedLeft(104);
+  setSpeedLeft(108);
   setSpeedRight(100);
 }
 
